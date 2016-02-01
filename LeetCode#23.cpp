@@ -1,5 +1,5 @@
 //LeetCode#23: Merge k Sorted Lists
-//Runtiome: 408ms
+//Runtime: 408ms
 /**
  * Definition for singly-linked list.
  * struct ListNode {

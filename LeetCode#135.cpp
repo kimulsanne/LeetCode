@@ -1,5 +1,5 @@
 //LeetCode#135: Candy
-//Runtiome: 36ms
+//Runtime: 36ms
 class Solution {
 public:
     int candy(vector<int>& ratings) {

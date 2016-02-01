@@ -1,5 +1,5 @@
 //LeetCode#210: Course Schedule II
-//Runtiome: 484ms
+//Runtime: 484ms
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<pair<int, int>>& prerequisites) {

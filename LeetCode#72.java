@@ -1,5 +1,5 @@
 //LeetCode#72: Edit Distance
-//Runtiome: 16ms
+//Runtime: 16ms
 class Solution {
 public:
     int minDistance(string word1, string word2) {

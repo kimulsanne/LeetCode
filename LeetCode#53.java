@@ -1,5 +1,5 @@
 //LeetCode#53: Maximum Subarray
-//Runtiome: 8ms
+//Runtime: 8ms
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {

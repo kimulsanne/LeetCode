@@ -1,5 +1,5 @@
 //LeetCode#264: Ugly Number II
-//Runtiome: 12ms
+//Runtime: 12ms
 class Solution {
 public:
     int minOfThree(int a, int b, int c) {

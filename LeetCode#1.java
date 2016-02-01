@@ -1,5 +1,5 @@
 //LeetCode#1: Two Sum
-//Runtiome: 6ms
+//Runtime: 6ms
 public class Solution {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;

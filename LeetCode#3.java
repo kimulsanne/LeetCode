@@ -1,5 +1,5 @@
 //LeetCode#3: Longest Substring Without Repeating Characters
-//Runtiome: 5ms
+//Runtime: 5ms
 public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int[] exist = new int[130];

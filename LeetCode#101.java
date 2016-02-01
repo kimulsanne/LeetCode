@@ -1,5 +1,5 @@
 //LeetCode#101: Symmetric Tree
-//Runtiome: 1ms
+//Runtime: 1ms
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

@@ -1,5 +1,5 @@
 //LeetCode#19: Remove Nth Node From End of List
-//Runtiome: 1ms
+//Runtime: 1ms
 /**
  * Definition for singly-linked list.
  * public class ListNode {

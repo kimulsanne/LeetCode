@@ -1,5 +1,5 @@
 //LeetCode#4: Median of Two Sorted Arrays
-//Runtiome: 44ms
+//Runtime: 44ms
 class Solution {
 public:
 	double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {

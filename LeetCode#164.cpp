@@ -1,5 +1,5 @@
 //LeetCode#164: Maximum Gap
-//Runtiome: 12ms
+//Runtime: 12ms
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {

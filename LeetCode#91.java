@@ -1,5 +1,5 @@
 //LeetCode#91: Decode Ways
-//Runtiome: 1ms
+//Runtime: 1ms
 public class Solution {
     public int numDecodings(String s) {
         if (s.length() == 0 || s.charAt(0) == '0')

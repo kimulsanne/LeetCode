@@ -1,5 +1,5 @@
 //LeetCode#179: Largest Number
-//Runtiome: 12ms
+//Runtime: 12ms
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {

@@ -1,5 +1,5 @@
 //LeetCode#56: Merge Intervals
-//Runtiome: 584ms
+//Runtime: 584ms
 /**
  * Definition for an interval.
  * struct Interval {

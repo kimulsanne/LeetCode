@@ -1,5 +1,5 @@
 //LeetCode#100: Same Tree
-//Runtiome: 1ms
+//Runtime: 1ms
 //DFS version
 /**
  * Definition for a binary tree node.

@@ -1,5 +1,5 @@
 //LeetCode#1: Pascal's Triangle
-//Runtiome: 1ms
+//Runtime: 1ms
 public class Solution {
     public List<List<Integer>> generate(int numRows) {
         ArrayList<List<Integer>> result = new ArrayList<List<Integer>>();

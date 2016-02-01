@@ -1,5 +1,5 @@
 //LeetCode#99: Recover Binary Search Tree
-//Runtiome: 52ms
+//Runtime: 52ms
 /**
  * Definition for a binary tree node.
  * struct TreeNode {

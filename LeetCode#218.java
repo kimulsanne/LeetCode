@@ -1,5 +1,5 @@
 //LeetCode#218: The Skyline Problem
-//Runtiome: 282ms
+//Runtime: 282ms
 class Pair implements Comparable<Pair> {
     int index;
     int height;

@@ -1,5 +1,5 @@
 //LeetCode#200: Number of Islands
-//Runtiome: 8ms
+//Runtime: 8ms
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
